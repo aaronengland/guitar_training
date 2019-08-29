@@ -1,6 +1,7 @@
 # guitar_training
 
 ## chord_trainer<br />
+A function to aid in chord progression training by looping through a key of chords in a progression for an amount of time at a frequency.
 
 Example:
 
