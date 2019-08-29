@@ -2,7 +2,7 @@
 
 Example:
 
-```from guitar_training import chord_trainer```
+```from guitar_training import chord_trainer```__
 
 ```# list of chords```
 ```list_of_chords = ['G','A-minor','B-minor','C','D','E-minor','F-diminished']```
