@@ -1,0 +1,7 @@
+setup.py
+guitar_training/__init__.py
+guitar_training.egg-info/PKG-INFO
+guitar_training.egg-info/SOURCES.txt
+guitar_training.egg-info/dependency_links.txt
+guitar_training.egg-info/not-zip-safe
+guitar_training.egg-info/top_level.txt
