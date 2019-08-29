@@ -1,5 +1,7 @@
 # guitar_training
 
+## chord_trainer<br />
+
 Example:
 
 ```from guitar_training import chord_trainer```<br />
